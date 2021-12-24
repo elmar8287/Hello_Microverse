@@ -4,6 +4,7 @@
 > This is our fist week and the first project in github. 
 > We will use html and css files in this project. Also we will use .gitignore file for ignore some files during commit
 
+![screenshot](./app_screenshot.PNG)
 
 ## Built With
 
